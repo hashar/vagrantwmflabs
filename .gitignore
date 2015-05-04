@@ -1,0 +1,6 @@
+/.vagrant/
+/log/
+/private
+/puppet
+
+*.swp

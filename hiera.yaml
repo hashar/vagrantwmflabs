@@ -1,0 +1,14 @@
+---
+:backends:
+  - yaml
+:yaml:
+  :datadir: /vagrant/puppet/hieradata
+:private:
+  :datadir: /vagrant/private/hieradata
+:hierarchy:
+  - local
+  - vagrant-managed
+  - 'labs'
+  - common
+  - 'private/common'
+:logger: console

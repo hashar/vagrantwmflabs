@@ -1,0 +1,7 @@
+VAGRANTWMFLABS v0.1 - a lame attempt to boot
+a Wikimedia labs instance under Vagrant based
+existing puppet manifests.
+Hosted on github.com/hashar/vagrantwmflabs
+By Antoine "hashar" Musso
+Based on work by Ori Livneh - (c) 2013
+License Apache 2.0
